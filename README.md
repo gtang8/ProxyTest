@@ -5,8 +5,8 @@ Automatically collect nodes and generate subscriptions via GitHub's Actions. For
 ## Subscribtions for V2ray：
 
 
-| Pool                      |   Subscribtion address          |
-| ------------------------- |  -------------------------------|
+| Pool                      |   Subscribtion address           |
+| ------------------------- |  --------------------------------|
 |[cloudkingzst](https://suc.bihai.cf/sub?target=ss&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fcloudkingzst)|https://suc.bihai.cf/sub?target=ss&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fcloudkingzst|
 |[eu-proxypool](https://suc.bihai.cf/sub?target=ss&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Feu-proxypool)|https://suc.bihai.cf/sub?target=ss&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Feu-proxypool|
 |[free886](https://suc.bihai.cf/sub?target=ss&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Ffree886)|https://suc.bihai.cf/sub?target=ss&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Ffree886|
